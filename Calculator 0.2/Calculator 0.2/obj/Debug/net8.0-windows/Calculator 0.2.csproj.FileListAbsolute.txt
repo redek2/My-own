@@ -1,0 +1,16 @@
+C:\Users\redek\source\repos\Calculator 0.2\Calculator 0.2\Calculator 0.2\bin\Debug\net8.0-windows\Calculator 0.2.exe
+C:\Users\redek\source\repos\Calculator 0.2\Calculator 0.2\Calculator 0.2\bin\Debug\net8.0-windows\Calculator 0.2.deps.json
+C:\Users\redek\source\repos\Calculator 0.2\Calculator 0.2\Calculator 0.2\bin\Debug\net8.0-windows\Calculator 0.2.runtimeconfig.json
+C:\Users\redek\source\repos\Calculator 0.2\Calculator 0.2\Calculator 0.2\bin\Debug\net8.0-windows\Calculator 0.2.dll
+C:\Users\redek\source\repos\Calculator 0.2\Calculator 0.2\Calculator 0.2\bin\Debug\net8.0-windows\Calculator 0.2.pdb
+C:\Users\redek\source\repos\Calculator 0.2\Calculator 0.2\Calculator 0.2\obj\Debug\net8.0-windows\Calculator_0._2.Form1.resources
+C:\Users\redek\source\repos\Calculator 0.2\Calculator 0.2\Calculator 0.2\obj\Debug\net8.0-windows\Calculator 0.2.csproj.GenerateResource.cache
+C:\Users\redek\source\repos\Calculator 0.2\Calculator 0.2\Calculator 0.2\obj\Debug\net8.0-windows\Calculator 0.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redek\source\repos\Calculator 0.2\Calculator 0.2\Calculator 0.2\obj\Debug\net8.0-windows\Calculator 0.2.AssemblyInfoInputs.cache
+C:\Users\redek\source\repos\Calculator 0.2\Calculator 0.2\Calculator 0.2\obj\Debug\net8.0-windows\Calculator 0.2.AssemblyInfo.cs
+C:\Users\redek\source\repos\Calculator 0.2\Calculator 0.2\Calculator 0.2\obj\Debug\net8.0-windows\Calculator 0.2.csproj.CoreCompileInputs.cache
+C:\Users\redek\source\repos\Calculator 0.2\Calculator 0.2\Calculator 0.2\obj\Debug\net8.0-windows\Calculator 0.2.dll
+C:\Users\redek\source\repos\Calculator 0.2\Calculator 0.2\Calculator 0.2\obj\Debug\net8.0-windows\refint\Calculator 0.2.dll
+C:\Users\redek\source\repos\Calculator 0.2\Calculator 0.2\Calculator 0.2\obj\Debug\net8.0-windows\Calculator 0.2.pdb
+C:\Users\redek\source\repos\Calculator 0.2\Calculator 0.2\Calculator 0.2\obj\Debug\net8.0-windows\Calculator 0.2.genruntimeconfig.cache
+C:\Users\redek\source\repos\Calculator 0.2\Calculator 0.2\Calculator 0.2\obj\Debug\net8.0-windows\ref\Calculator 0.2.dll
