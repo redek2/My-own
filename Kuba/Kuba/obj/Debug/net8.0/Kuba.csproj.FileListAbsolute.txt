@@ -1,0 +1,14 @@
+C:\Users\redek\source\repos\Kuba\Kuba\bin\Debug\net8.0\Kuba.exe
+C:\Users\redek\source\repos\Kuba\Kuba\bin\Debug\net8.0\Kuba.deps.json
+C:\Users\redek\source\repos\Kuba\Kuba\bin\Debug\net8.0\Kuba.runtimeconfig.json
+C:\Users\redek\source\repos\Kuba\Kuba\bin\Debug\net8.0\Kuba.dll
+C:\Users\redek\source\repos\Kuba\Kuba\bin\Debug\net8.0\Kuba.pdb
+C:\Users\redek\source\repos\Kuba\Kuba\obj\Debug\net8.0\Kuba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redek\source\repos\Kuba\Kuba\obj\Debug\net8.0\Kuba.AssemblyInfoInputs.cache
+C:\Users\redek\source\repos\Kuba\Kuba\obj\Debug\net8.0\Kuba.AssemblyInfo.cs
+C:\Users\redek\source\repos\Kuba\Kuba\obj\Debug\net8.0\Kuba.csproj.CoreCompileInputs.cache
+C:\Users\redek\source\repos\Kuba\Kuba\obj\Debug\net8.0\Kuba.dll
+C:\Users\redek\source\repos\Kuba\Kuba\obj\Debug\net8.0\refint\Kuba.dll
+C:\Users\redek\source\repos\Kuba\Kuba\obj\Debug\net8.0\Kuba.pdb
+C:\Users\redek\source\repos\Kuba\Kuba\obj\Debug\net8.0\Kuba.genruntimeconfig.cache
+C:\Users\redek\source\repos\Kuba\Kuba\obj\Debug\net8.0\ref\Kuba.dll
