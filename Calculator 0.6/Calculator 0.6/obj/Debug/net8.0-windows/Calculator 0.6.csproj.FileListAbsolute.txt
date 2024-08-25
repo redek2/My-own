@@ -1,0 +1,16 @@
+C:\Users\redek\source\repos\Calculator 0.6\Calculator 0.6\bin\Debug\net8.0-windows\Calculator 0.6.exe
+C:\Users\redek\source\repos\Calculator 0.6\Calculator 0.6\bin\Debug\net8.0-windows\Calculator 0.6.deps.json
+C:\Users\redek\source\repos\Calculator 0.6\Calculator 0.6\bin\Debug\net8.0-windows\Calculator 0.6.runtimeconfig.json
+C:\Users\redek\source\repos\Calculator 0.6\Calculator 0.6\bin\Debug\net8.0-windows\Calculator 0.6.dll
+C:\Users\redek\source\repos\Calculator 0.6\Calculator 0.6\bin\Debug\net8.0-windows\Calculator 0.6.pdb
+C:\Users\redek\source\repos\Calculator 0.6\Calculator 0.6\obj\Debug\net8.0-windows\Calculator_0._6.Form1.resources
+C:\Users\redek\source\repos\Calculator 0.6\Calculator 0.6\obj\Debug\net8.0-windows\Calculator 0.6.csproj.GenerateResource.cache
+C:\Users\redek\source\repos\Calculator 0.6\Calculator 0.6\obj\Debug\net8.0-windows\Calculator 0.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redek\source\repos\Calculator 0.6\Calculator 0.6\obj\Debug\net8.0-windows\Calculator 0.6.AssemblyInfoInputs.cache
+C:\Users\redek\source\repos\Calculator 0.6\Calculator 0.6\obj\Debug\net8.0-windows\Calculator 0.6.AssemblyInfo.cs
+C:\Users\redek\source\repos\Calculator 0.6\Calculator 0.6\obj\Debug\net8.0-windows\Calculator 0.6.csproj.CoreCompileInputs.cache
+C:\Users\redek\source\repos\Calculator 0.6\Calculator 0.6\obj\Debug\net8.0-windows\Calculator 0.6.dll
+C:\Users\redek\source\repos\Calculator 0.6\Calculator 0.6\obj\Debug\net8.0-windows\refint\Calculator 0.6.dll
+C:\Users\redek\source\repos\Calculator 0.6\Calculator 0.6\obj\Debug\net8.0-windows\Calculator 0.6.pdb
+C:\Users\redek\source\repos\Calculator 0.6\Calculator 0.6\obj\Debug\net8.0-windows\Calculator 0.6.genruntimeconfig.cache
+C:\Users\redek\source\repos\Calculator 0.6\Calculator 0.6\obj\Debug\net8.0-windows\ref\Calculator 0.6.dll
