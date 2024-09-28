@@ -1,0 +1,18 @@
+C:\Users\redek\source\repos\Mind reading\Mind reading\bin\Debug\net8.0-windows\Mind reading.exe
+C:\Users\redek\source\repos\Mind reading\Mind reading\bin\Debug\net8.0-windows\Mind reading.deps.json
+C:\Users\redek\source\repos\Mind reading\Mind reading\bin\Debug\net8.0-windows\Mind reading.runtimeconfig.json
+C:\Users\redek\source\repos\Mind reading\Mind reading\bin\Debug\net8.0-windows\Mind reading.dll
+C:\Users\redek\source\repos\Mind reading\Mind reading\bin\Debug\net8.0-windows\Mind reading.pdb
+C:\Users\redek\source\repos\Mind reading\Mind reading\obj\Debug\net8.0-windows\Mind_reading.Form1.resources
+C:\Users\redek\source\repos\Mind reading\Mind reading\obj\Debug\net8.0-windows\Mind reading.csproj.GenerateResource.cache
+C:\Users\redek\source\repos\Mind reading\Mind reading\obj\Debug\net8.0-windows\Mind reading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redek\source\repos\Mind reading\Mind reading\obj\Debug\net8.0-windows\Mind reading.AssemblyInfoInputs.cache
+C:\Users\redek\source\repos\Mind reading\Mind reading\obj\Debug\net8.0-windows\Mind reading.AssemblyInfo.cs
+C:\Users\redek\source\repos\Mind reading\Mind reading\obj\Debug\net8.0-windows\Mind reading.csproj.CoreCompileInputs.cache
+C:\Users\redek\source\repos\Mind reading\Mind reading\obj\Debug\net8.0-windows\Mind reading.dll
+C:\Users\redek\source\repos\Mind reading\Mind reading\obj\Debug\net8.0-windows\refint\Mind reading.dll
+C:\Users\redek\source\repos\Mind reading\Mind reading\obj\Debug\net8.0-windows\Mind reading.pdb
+C:\Users\redek\source\repos\Mind reading\Mind reading\obj\Debug\net8.0-windows\Mind reading.genruntimeconfig.cache
+C:\Users\redek\source\repos\Mind reading\Mind reading\obj\Debug\net8.0-windows\ref\Mind reading.dll
+C:\Users\redek\source\repos\Mind reading\Mind reading\obj\Debug\net8.0-windows\Mind_reading.Progressform.resources
+C:\Users\redek\source\repos\Mind reading\Mind reading\obj\Debug\net8.0-windows\Mind_reading.resultForm.resources
